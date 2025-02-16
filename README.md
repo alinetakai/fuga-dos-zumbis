@@ -31,7 +31,7 @@ as decisões do jogador.
 
 Clone e execute o arquivo index.html ou acesse o link da página hospedada no GitHub Pages.
 
-🔗 [Clique Aqui](https://alinetakai.github.io/cores-CSS/).
+🔗 [Clique Aqui](https://alinetakai.github.io/fuga-dos-zumbis/).
 
     
 ## Stack utilizada
