@@ -54,7 +54,7 @@ Destaques do Jogo:
 ## Estrutura do Projeto
 
 - ``index.html``: Arquivo principal com o código completo (HTML - CSS - JS)
-- ``arquivos .png``: Imagens utilizdas no jogo
+- ``arquivos .png``: Imagens utilizadas no jogo
 
 ## Requisitos do Sistema
 
